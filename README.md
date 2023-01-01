@@ -2,7 +2,7 @@
 ## Self-Supervised Semi-Supervised Nonnegative Matrix Factorization for Data Clustering
 Jut run 'S4NMF.ipynb'.
 
-  *Jovan Chavoshinejad, Seyed Amjad Seyedi, Fardin Akhlaghian Tab, navid Salahian, *
+  *Jovan Chavoshinejad, Seyed Amjad Seyedi, Fardin Akhlaghian Tab, navid Salahian*
   
   *Pattern Recognition 2023*
 
