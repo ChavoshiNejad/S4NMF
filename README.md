@@ -22,7 +22,7 @@ Semi-supervised nonnegative matrix factorization exploits the strengths of matri
 title = {Self-Supervised Semi-Supervised Nonnegative Matrix Factorization for Data Clustering},
 journal = {Pattern Recognition},
 pages = {109282},
-year = {2022},
+year = {2023},
 issn = {0031-3203},
 doi = {https://doi.org/10.1016/j.patcog.2022.109282},
 url = {https://www.sciencedirect.com/science/article/pii/S0031320322007610},
